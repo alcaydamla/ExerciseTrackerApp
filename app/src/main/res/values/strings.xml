@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DamlaAlcay_HW2</string>
+    <string name="exercise_name">Exercise Name</string>
+    <string name="duration">Duration</string>
+    <string name="date">Date</string>
+    <string name="delete_exercise">Delete Exercise</string>
+    <string name="update_exercise">Update Exercise</string>
+
+</resources>
